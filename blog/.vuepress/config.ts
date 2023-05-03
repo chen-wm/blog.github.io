@@ -7,7 +7,7 @@ const isProd = process.env.NODE_ENV === "production";
 export default defineUserConfig({
   title: "Code Chen",
   description: "Chen weiming is a dragon lost in human world.",
-
+  base: '/blog.github.io/',
   head: [
     [
       "link",
