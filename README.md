@@ -10,7 +10,6 @@ It used be be built with:
 - [Jekyll](https://jekyllrb.com/): [[code]](https://github.com/Renovamen/blog.zxh.io/tree/jekyll), [[theme]](https://github.com/Renovamen/jekyll-theme-gungnir)
 - [VuePress 1](https://v2.vuepress.vuejs.org): [[code]](https://github.com/Renovamen/blog.zxh.io/tree/vuepress-v1), [[theme]](https://github.com/Renovamen/vuepress-theme-gungnir/tree/v0)
 
-Any way, just have fun with this blog: [blog.zxh.io](https://blog.zxh.io)
 
 
 &nbsp;
