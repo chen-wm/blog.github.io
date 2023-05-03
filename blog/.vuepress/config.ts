@@ -57,9 +57,6 @@ export default defineUserConfig({
       description: "CODE_CHEN",
       sns: {
         github: "chen-wm",
-        linkedin: "xiaohan-zou",
-        twitter: "renovamen_zxh",
-        zhihu: "chao-neng-gui-su",
         email: "627891695@qq.com",
         rss: "/rss.xml"
       }

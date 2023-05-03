@@ -4,28 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9078c7f0-e4ad-44ce-80a3-f23c1b205a11" name="变更" comment="feat：成功部署配置">
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-07-28-function-web.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-07-29-disable-comments.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-08-25-array-flat.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-08-25-class-new.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-08-26-vue-slot.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-08-29-vue-response.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-02-es6-promise.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-02-proxy-mode.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-02-publish-subscribe-mode.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-02-singleton-pattern.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-02-strategy-mode.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-02-vue3-proxy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-05-java-bubble_sort.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-05-java-insertion_sort.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-05-java-selection_sort.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-15-Java-lombok.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-11-21-vue-pruduct.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-11-30-npm-commit.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-12-07-commonjs-esmodule.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/posts/2022-12-12-vue3-source.md" afterDir="false" />
+    <list default="true" id="9078c7f0-e4ad-44ce-80a3-f23c1b205a11" name="变更" comment="feat：替换背景">
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/links/json.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/links/npm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/links/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/links/umi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/links/vue.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/.vuepress/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/links/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/links/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +52,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/chenweiming/study/blog.cwm.io/blog/posts",
+    "last_opened_file_path": "/Users/chenweiming/study/blog.cwm.io/blog/.vuepress/public/img/links",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.stylelint": "true",
@@ -84,6 +71,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog/.vuepress/public/img/links" />
       <recent name="$PROJECT_DIR$/blog/posts" />
       <recent name="$PROJECT_DIR$/blog/.vuepress/public/img/in-post" />
       <recent name="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2023-03-12" />
@@ -151,10 +139,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.deploy" />
         <item itemvalue="npm.dev" />
         <item itemvalue="Shell Script.deploy.sh" />
         <item itemvalue="npm.build" />
-        <item itemvalue="npm.deploy" />
         <item itemvalue="npm.serve" />
       </list>
     </recent_temporary>
@@ -174,7 +162,7 @@
       <workItem from="1683074712512" duration="3377000" />
       <workItem from="1683101360136" duration="951000" />
       <workItem from="1683106525371" duration="55000" />
-      <workItem from="1683106601257" duration="3289000" />
+      <workItem from="1683106601257" duration="3968000" />
     </task>
     <task id="LOCAL-00002" summary="变更">
       <created>1683103165528</created>
@@ -190,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683106437204</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat：替换背景">
+      <created>1683110632799</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683110632799</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +195,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="变更" />
     <MESSAGE value="feat：成功部署配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat：成功部署配置" />
+    <MESSAGE value="feat：替换背景" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat：替换背景" />
   </component>
 </project>
