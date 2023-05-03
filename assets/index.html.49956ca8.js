@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3298445c","path":"/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/","title":"\u8BBE\u8BA1\u6A21\u5F0F | Tags","lang":"en-US","frontmatter":{"title":"\u8BBE\u8BA1\u6A21\u5F0F | Tags","layout":"Tags","blog":{"type":"category","name":"\u8BBE\u8BA1\u6A21\u5F0F","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{t as data};
