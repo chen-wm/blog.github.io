@@ -4,10 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9078c7f0-e4ad-44ce-80a3-f23c1b205a11" name="变更" comment="变更">
+    <list default="true" id="9078c7f0-e4ad-44ce-80a3-f23c1b205a11" name="变更" comment="feat：成功部署配置">
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-07-28-function-web.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-07-29-disable-comments.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-08-25-array-flat.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-08-25-class-new.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-08-26-vue-slot.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-08-29-vue-response.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-02-es6-promise.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-02-proxy-mode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-02-publish-subscribe-mode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-02-singleton-pattern.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-02-strategy-mode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-02-vue3-proxy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-05-java-bubble_sort.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-05-java-insertion_sort.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-05-java-selection_sort.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-09-15-Java-lombok.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-11-21-vue-pruduct.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-11-30-npm-commit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-12-07-commonjs-esmodule.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2022-12-12-vue3-source.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/.vuepress/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,33 +57,34 @@
     <option name="showMembers" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;ALL&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/chenweiming/study/blog.cwm.io/blog/.vuepress/public/img/in-post&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/chenweiming/work/huaren_admin/node_modules/prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/chenweiming/study/blog.cwm.io/blog/posts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "pnpm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/chenweiming/work/huaren_admin/node_modules/prettier",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog/posts" />
       <recent name="$PROJECT_DIR$/blog/.vuepress/public/img/in-post" />
       <recent name="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2023-03-12" />
     </key>
@@ -133,12 +152,14 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.dev" />
-        <item itemvalue="npm.build" />
-        <item itemvalue="npm.serve" />
         <item itemvalue="Shell Script.deploy.sh" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.serve" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="9078c7f0-e4ad-44ce-80a3-f23c1b205a11" name="变更" comment="" />
@@ -152,6 +173,8 @@
       <workItem from="1683074278124" duration="427000" />
       <workItem from="1683074712512" duration="3377000" />
       <workItem from="1683101360136" duration="951000" />
+      <workItem from="1683106525371" duration="55000" />
+      <workItem from="1683106601257" duration="3289000" />
     </task>
     <task id="LOCAL-00002" summary="变更">
       <created>1683103165528</created>
@@ -160,12 +183,23 @@
       <option name="project" value="LOCAL" />
       <updated>1683103165528</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat：成功部署配置">
+      <created>1683106437204</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683106437204</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="变更" />
-    <option name="LAST_COMMIT_MESSAGE" value="变更" />
+    <MESSAGE value="feat：成功部署配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat：成功部署配置" />
   </component>
 </project>
