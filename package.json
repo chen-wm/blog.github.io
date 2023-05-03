@@ -5,7 +5,8 @@
     "clean": "rimraf blog/.vuepress/.temp blog/.vuepress/.cache blog/.vuepress/dist",
     "dev": "vuepress-cli dev blog --clean-cache",
     "build": "pnpm clean && vuepress-cli build blog --clean-cache",
-    "serve": "serve blog/.vuepress/dist"
+    "serve": "serve blog/.vuepress/dist",
+    "deploy": "bash deploy.sh"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-beta.49",

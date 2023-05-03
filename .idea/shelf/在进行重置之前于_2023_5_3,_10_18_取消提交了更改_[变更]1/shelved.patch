@@ -1,0 +1,37 @@
+Index: package.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\n  \"name\": \"renovamen-blog\",\n  \"private\": true,\n  \"scripts\": {\n    \"clean\": \"rimraf blog/.vuepress/.temp blog/.vuepress/.cache blog/.vuepress/dist\",\n    \"dev\": \"vuepress-cli dev blog --clean-cache\",\n    \"build\": \"pnpm clean && vuepress-cli build blog --clean-cache\",\n    \"serve\": \"serve blog/.vuepress/dist\"\n  },\n  \"devDependencies\": {\n    \"@vuepress/bundler-vite\": \"2.0.0-beta.49\",\n    \"@vuepress/cli\": \"2.0.0-beta.49\",\n    \"@vuepress/client\": \"2.0.0-beta.49\",\n    \"oh-vue-icons\": \"^1.0.0-rc3\",\n    \"sass-loader\": \"^13.0.2\",\n    \"serve\": \"^14.0.1\",\n    \"rimraf\": \"^3.0.2\",\n    \"vue\": \"^3.2.36\",\n    \"vuepress\": \"2.0.0-beta.49\",\n    \"vuepress-theme-gungnir\": \"2.0.0-alpha.26\"\n  },\n  \"engines\": {\n    \"node\": \">=14\",\n    \"pnpm\": \">=7\"\n  },\n  \"pnpm\": {\n    \"peerDependencyRules\": {\n      \"ignoreMissing\": [\n        \"webpack\"\n      ]\n    }\n  }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/package.json b/package.json
+--- a/package.json	
++++ b/package.json	
+@@ -5,7 +5,8 @@
+     "clean": "rimraf blog/.vuepress/.temp blog/.vuepress/.cache blog/.vuepress/dist",
+     "dev": "vuepress-cli dev blog --clean-cache",
+     "build": "pnpm clean && vuepress-cli build blog --clean-cache",
+-    "serve": "serve blog/.vuepress/dist"
++    "serve": "serve blog/.vuepress/dist",
++    "deploy": "bash deploy.sh"
+   },
+   "devDependencies": {
+     "@vuepress/bundler-vite": "2.0.0-beta.49",
+Index: deploy.sh
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/deploy.sh b/deploy.sh
+new file mode 100644
+--- /dev/null	
++++ b/deploy.sh	
+@@ -0,0 +1,7 @@
++set -e
++
++npm run build
++git add blog/.vuepress/dist
++git commit -m 'commitmsg'
++git push
++git subtree push --prefix blog/.vuepress/dist origin gh-pages
