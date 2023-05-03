@@ -5,9 +5,9 @@ import { gungnirTheme } from "vuepress-theme-gungnir";
 const isProd = process.env.NODE_ENV === "production";
 
 export default defineUserConfig({
-  title: "Weiming Chen",
-  // base: "/blog.zxh.io/blog/.vuepress/dist", //打包专用
-  description: "Weiming Chen is a dragon lost in human world.",
+  title: "Xiaohan Zou",
+  description: "Xiaohan Zou (Renovamen) is a dragon lost in human world.",
+
   head: [
     [
       "link",
@@ -27,18 +27,18 @@ export default defineUserConfig({
         href: `/img/logo/favicon-32x32.png`
       }
     ],
-    ["meta", {name: "application-name", content: "weiming Chen"}],
-    ["meta", {name: "apple-mobile-web-app-title", content: "weiming Chen"}],
+    ["meta", { name: "application-name", content: "Xiaohan Zou" }],
+    ["meta", { name: "apple-mobile-web-app-title", content: "Xiaohan Zou" }],
     [
       "meta",
-      {name: "apple-mobile-web-app-status-bar-style", content: "black"}
+      { name: "apple-mobile-web-app-status-bar-style", content: "black" }
     ],
     [
       "link",
-      {rel: "apple-touch-icon", href: `/img/logo/apple-touch-icon.png`}
+      { rel: "apple-touch-icon", href: `/img/logo/apple-touch-icon.png` }
     ],
-    ["meta", {name: "theme-color", content: "#377bb5"}],
-    ["meta", {name: "msapplication-TileColor", content: "#377bb5"}]
+    ["meta", { name: "theme-color", content: "#377bb5" }],
+    ["meta", { name: "msapplication-TileColor", content: "#377bb5" }]
   ],
 
   bundler: viteBundler(),
@@ -52,13 +52,16 @@ export default defineUserConfig({
 
     // personal information
     personalInfo: {
-      name: "陈伟铭",
-      avatar: "/img/head.jpeg",
-      description: "CODE_CHEN",
+      name: "Renovamen",
+      avatar: "/img/avatar.jpg",
+      description: "いつか、私がヒトじゃなくなっても",
       sns: {
-        github: "chen-wm",
-        zhihu: "https://www.zhihu.com/people/hey-4-21",
-        email: "627891695@qq.com",
+        github: "Renovamen",
+        linkedin: "xiaohan-zou",
+        // facebook: "renovamen.zou",
+        twitter: "renovamen_zxh",
+        zhihu: "chao-neng-gui-su",
+        email: "renovamenzxh@gmail.com",
         rss: "/rss.xml"
       }
     },
@@ -96,9 +99,8 @@ export default defineUserConfig({
         }
       },
       links: {
-        title: 'Introduction',
         subtitle:
-          "Part of my profile.",
+          "When you are looking at the stars, please put the brightest star shining night sky as my soul.",
         bgImage: {
           path: "/img/pages/links.jpg",
           mask: "rgba(64, 118, 190, 0.5)"
@@ -123,8 +125,8 @@ export default defineUserConfig({
       ga: "G-HCQSX53XFG",
       ba: "75381d210789d3eaf855fa16246860cc",
       rss: {
-        siteURL: "https://chen-wm.github.io/chenwm.github.io/",
-        copyright: "chenwm 2019-up to now"
+        siteURL: "https://blog.zxh.io",
+        copyright: "Renovamen 2018-2022"
       }
     },
 
@@ -140,24 +142,24 @@ export default defineUserConfig({
         icon: "fa-tag"
       },
       {
-        text: "Introduction",
+        text: "Links",
         link: "/links/",
         icon: "fa-satellite-dish"
       },
       {
         text: "About",
-        link: "https://www.baidu.com",
+        link: "https://zxh.io",
         icon: "fa-paw"
       },
       {
         text: "Portfolio",
-        link: "https://www.baidu.com/",
+        link: "https://portfolio.zxh.io/",
         icon: "oi-rocket"
       }
     ],
 
     footer: `
-      &copy; <a href="https://github.com/chenwm" target="_blank">coding by</a> 2019.10-至今
+      &copy; <a href="https://github.com/Renovamen" target="_blank">Renovamen</a> 2018-2022
       <br>
       Powered by <a href="https://v2.vuepress.vuejs.org" target="_blank">VuePress</a> &
       <a href="https://github.com/Renovamen/vuepress-theme-gungnir" target="_blank">Gungnir</a>
