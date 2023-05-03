@@ -1,10 +1,8 @@
 # VuePress files
 blog/.vuepress/.temp/
 blog/.vuepress/.cache/
-blog/.vuepress/dist/
 
 # Dist files
-dist/
 lib/
 
 # Test temp files
