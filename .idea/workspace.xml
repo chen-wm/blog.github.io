@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9078c7f0-e4ad-44ce-80a3-f23c1b205a11" name="变更" comment="变更">
-      <change beforePath="$PROJECT_DIR$/blog/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/.vuepress/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2017-06-09-my-high-school-life.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2018-02-17-nlp-resource.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2018-09-01-p-value.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2018-11-11-zelda-horizon.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2018-11-30-dynamo.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2018-12-22-note-of-linear-algebra.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2019-02-15-rnn-with-its-friends.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2019-04-03-racf-experiment.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2019-07-06-last-three-years.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-02-24-the-enigmatic-appeal-of-video-games-greatest-bards.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-02-29-image-aesthetic-assessment.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-03-17-papers-reading.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-07-10-messy-notes-nlp.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-07-17-transformer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-08-05-meta-learning.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-08-16-bayesian-neural-network.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-08-22-bocd.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-08-24-regularization-based-continual-learning.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-09-04-bayesian-meta-learning.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-10-07-my-blog.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-01-01-new-year.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-01-28-lets-talk-about-pytorch.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-04-26-pc-algorithm.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-06-12-svm.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-07-27-fisher-information-matrix.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-07-28-natural-gradient.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-08-31-attention-conv.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2022-01-29-travel-to-boston.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2022-02-21-new-year-2022.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +134,16 @@
       <workItem from="1679126864494" duration="3146000" />
       <workItem from="1683074278124" duration="427000" />
       <workItem from="1683074712512" duration="3377000" />
+      <workItem from="1683078899970" duration="405000" />
     </task>
+    <task id="LOCAL-00001" summary="变更">
+      <created>1683078973373</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683078973373</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +173,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="变更" />
+    <option name="LAST_COMMIT_MESSAGE" value="变更" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
