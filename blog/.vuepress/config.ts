@@ -53,7 +53,7 @@ export default defineUserConfig({
     // personal information
     personalInfo: {
       name: "陈伟铭",
-      avatar: "/img/head.jpeg",
+      avatar: "/img/avatar1.jpeg",
       description: "CODE_CHEN",
       sns: {
         github: "chen-wm",

@@ -5,36 +5,178 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9078c7f0-e4ad-44ce-80a3-f23c1b205a11" name="变更" comment="变更">
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/avatar1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/bfc1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/bfc2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/bfc3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/browser01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/browser02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/header-introduce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/project1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/repo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/repo2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/sh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/sh2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/sh3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/sh4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2023-03-11-new-year-2022.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/.vuepress/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2017-06-09-my-high-school-life.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2018-02-17-nlp-resource.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2018-09-01-p-value.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2018-11-11-zelda-horizon.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2018-11-30-dynamo.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2018-12-22-note-of-linear-algebra.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2019-02-15-rnn-with-its-friends.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2019-04-03-racf-experiment.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2019-07-06-last-three-years.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-02-24-the-enigmatic-appeal-of-video-games-greatest-bards.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-02-29-image-aesthetic-assessment.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-03-17-papers-reading.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-07-10-messy-notes-nlp.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-07-17-transformer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-08-05-meta-learning.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-08-16-bayesian-neural-network.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-08-22-bocd.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-08-24-regularization-based-continual-learning.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-09-04-bayesian-meta-learning.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2020-10-07-my-blog.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-01-01-new-year.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-01-28-lets-talk-about-pytorch.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-04-26-pc-algorithm.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-06-12-svm.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-07-27-fisher-information-matrix.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-07-28-natural-gradient.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-08-31-attention-conv.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2022-01-29-travel-to-boston.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2022-02-21-new-year-2022.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2018-09-01/chi-square-distribution.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2018-11-11/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2018-11-11/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2018-11-11/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2018-11-11/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2018-11-11/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2018-11-30/cache-change.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2018-11-30/iphone-example1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2018-11-30/iphone-example2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2018-11-30/replication.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2018-11-30/strategy1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2018-11-30/strategy2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2018-11-30/vector-clock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2018-11-30/virtural-node.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-02-15/gru/gru.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-02-15/lstm/forget.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-02-15/lstm/input.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-02-15/lstm/lstm-backward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-02-15/lstm/lstm-forward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-02-15/lstm/lstm1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-02-15/lstm/lstm2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-02-15/lstm/output.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-02-15/rnn/num_units.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-02-15/rnn/relu.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-02-15/rnn/rolled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-02-15/rnn/sigmoid.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-02-15/rnn/tanh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-02-15/rnn/unrolled-details.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-02-15/rnn/unrolled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-04-03/racf-2.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-04-03/racf-3.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-04-03/racf-4.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-04-03/racf-7.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2019-07-06/3ds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-24/edward-ffiv.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-24/gwent-dandelion.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-24/mordhau-bard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-24/skyrim-sven.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-24/the-bards-tale.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-24/the-witcher-dandelion-header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-29/aadb-compare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-29/alamp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-29/aman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-29/arod-compare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-29/ava-compare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-29/dma-net.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-29/dpchallenge-distribution.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-29/mna.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-29/pccd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-29/photo-net-distribution.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-29/rapid-dcnn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-02-29/rapid-style-cnn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/adaptive-attention/adaptive-attention-result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/adaptive-attention/adaptive-attention.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/adaptive-attention/spatial-attention.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/img2txt/cnn-lstm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/img2txt/img2txt-result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/img2txt/lstm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/machine-translation/seq2seq-attention.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/machine-translation/seq2seq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/pccd/af.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/pccd/ao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/pccd/pccd-result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/pccd/pccd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/self-critical/sc-result1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/self-critical/sc-result2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/self-critical/sc-result3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/self-critical/sc-result4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/self-critical/self-critical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/show-attend-tell/attention-lstm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/show-attend-tell/attention-result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/show-attend-tell/true-attention-lstm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/show-attend-tell/vggnet-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/show-attend-tell/vggnet.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/show-attend-tell/vggnet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-03-17/text-classification/HAN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-10/PTMs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-10/bert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-10/co-matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-10/contextual-embedding.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-10/elmo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-10/glove-weighting-function.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-10/huffman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-10/neg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-10/nesterov.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-10/see-itself.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-17/attention.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-17/complexity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-17/decoder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-17/encoder-decoder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-17/encoder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-17/mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-17/multi-head-self-attention.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-17/positional-embedding.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-17/transformer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-07-17/wave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-05/few-shot-classification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-05/fomaml.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-05/maml-alg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-05/maml-diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-05/maml-pretrain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-05/maml-update.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-05/meta-dataset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-05/paint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-05/reptile-batch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-05/reptile-maml-pretrain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-05/reptile-update.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-05/reptile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-05/transfer-interference.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-16/neuron.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-22/message_passing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-22/parameter_updates.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-22/product-partitions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-22/run_length.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2020-08-24/ewc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-01-28/nesterov-momentum-hinton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-04-26/extend-to-cpdag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-04-26/link.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-04-26/markov-equivalence-class.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-04-26/pc-skeleton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-04-26/pcg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-06-12/hinge-loss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-06-12/kernel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-06-12/linearly-separable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-06-12/soft-margin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-06-12/support-vectors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-08-31/external-attention.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-08-31/fastformer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-08-31/halo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-08-31/involution.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-08-31/linformer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-08-31/se.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-08-31/self-attention.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-08-31/simplified-self-attention.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2021-08-31/sk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2022-01-29/map-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2022-01-29/map-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2022-02-21/chat-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2022-02-21/chat-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2022-02-21/chat-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2022-02-21/kuaishou-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2022-02-21/kuaishou-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2022-02-21/panda.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2022-02-21/qq-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2022-02-21/red-panda.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2022-02-21/shanghai-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2022-02-21/shanghai-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2022-02-21/shanghai-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2022-02-21/shanghai-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2022-02-21/shenzhen-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2022-02-21/shenzhen-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2022-02-21/zhihu-1.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +193,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectId" id="2MeABceVPe2cs5jdToSQMDbsbSB" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -63,33 +208,34 @@
     <option name="showMembers" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;ALL&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/chenweiming/study/blog.cwm.io&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/chenweiming/work/huaren_admin/node_modules/prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/chenweiming/study/blog.cwm.io/blog/.vuepress/public/img/in-post",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "pnpm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/chenweiming/work/huaren_admin/node_modules/prettier",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog/.vuepress/public/img/in-post" />
       <recent name="$PROJECT_DIR$/blog/.vuepress/public/img/in-post/2023-03-12" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -97,7 +243,7 @@
       <recent name="$PROJECT_DIR$/blog/.vuepress/public/img/links" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.serve">
+  <component name="RunManager" selected="npm.dev">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -140,9 +286,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev" />
         <item itemvalue="npm.serve" />
         <item itemvalue="npm.build" />
-        <item itemvalue="npm.dev" />
         <item itemvalue="npm.clean" />
       </list>
     </recent_temporary>
@@ -163,6 +309,7 @@
       <workItem from="1679126864494" duration="3146000" />
       <workItem from="1683074278124" duration="427000" />
       <workItem from="1683074712512" duration="3377000" />
+      <workItem from="1683101360136" duration="951000" />
     </task>
     <servers />
   </component>
