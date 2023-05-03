@@ -5,8 +5,8 @@ import { gungnirTheme } from "vuepress-theme-gungnir";
 const isProd = process.env.NODE_ENV === "production";
 
 export default defineUserConfig({
-  title: "Xiaohan Zou",
-  description: "Xiaohan Zou (Renovamen) is a dragon lost in human world.",
+  title: "Code Chen",
+  description: "Chen weiming is a dragon lost in human world.",
 
   head: [
     [
@@ -44,7 +44,7 @@ export default defineUserConfig({
   bundler: viteBundler(),
 
   theme: gungnirTheme({
-    repo: "Renovamen/blog.zxh.io",
+    repo: "chen-wm/blog.github.io",
     docsDir: "blog",
     docsBranch: "master",
 
@@ -56,12 +56,11 @@ export default defineUserConfig({
       avatar: "/img/avatar1.jpeg",
       description: "CODE_CHEN",
       sns: {
-        github: "Renovamen",
+        github: "chen-wm",
         linkedin: "xiaohan-zou",
-        // facebook: "renovamen.zou",
         twitter: "renovamen_zxh",
         zhihu: "chao-neng-gui-su",
-        email: "renovamenzxh@gmail.com",
+        email: "627891695@qq.com",
         rss: "/rss.xml"
       }
     },
@@ -126,7 +125,7 @@ export default defineUserConfig({
       ba: "75381d210789d3eaf855fa16246860cc",
       rss: {
         siteURL: "https://blog.zxh.io",
-        copyright: "Renovamen 2018-2022"
+        copyright: "chen 2018-2022"
       }
     },
 
@@ -148,18 +147,18 @@ export default defineUserConfig({
       },
       {
         text: "About",
-        link: "https://zxh.io",
+        link: "https://www.baidu.com/",
         icon: "fa-paw"
       },
       {
         text: "Portfolio",
-        link: "https://portfolio.zxh.io/",
+        link: "https://www.baidu.com/",
         icon: "oi-rocket"
       }
     ],
 
     footer: `
-      &copy; <a href="https://github.com/Renovamen" target="_blank">Renovamen</a> 2018-2022
+      &copy; <a href="https://github.com/Renovamen" target="_blank">chen</a> 2018-2022
       <br>
       Powered by <a href="https://v2.vuepress.vuejs.org" target="_blank">VuePress</a> &
       <a href="https://github.com/Renovamen/vuepress-theme-gungnir" target="_blank">Gungnir</a>

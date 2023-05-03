@@ -39,12 +39,12 @@ BLOG project:
 
 #### 1.创建仓库，如下图
 
-<img :src="$withBase('/assets/img/repo1.jpg')" alt="repo1">
+<img :src="$withBase('/img/in-post/repo1.jpg')" alt="repo1">
 <br/>
 
 #### 2.关联origin repo，如下图
 
-<img :src="$withBase('/assets/img/repo2.jpg')" alt="repo1">
+<img :src="$withBase('/img/in-postrepo2.jpg')" alt="repo1">
 <br/>
 
 ### 三、构建自动化脚本
